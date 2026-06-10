@@ -47,7 +47,11 @@ Designed a user-friendly application to:
 - Standardize evaluation processes  
 - Improve data quality and accessibility  
 
-![Power Apps](images/powerapp1.png)
+#### Application Screens
+
+![Power Apps - Screen 1](images/powerapp1.png)
+![Power Apps - Screen 2](images/powerapp2.png)
+![Power Apps - Screen 3](images/powerapp3.png)
 
 ---
 
