@@ -7,6 +7,19 @@ The solution integrates **data collection, storage, automation, and reporting**,
 
 ---
 
+## 🎯 Business Problem  
+Companies managing multiple suppliers require a standardized and data-driven approach to evaluate vendor performance, reduce risk, and improve operational efficiency.
+
+---
+
+## ✅ Business Impact  
+- Streamlined supplier evaluation processes through digitalization  
+- Provided centralized visibility of supplier performance metrics  
+- Enabled data-driven supplier selection and risk management  
+- Reduced manual data handling and improved data consistency  
+
+---
+
 ## 🎯 Business Context
 Organizations managing multiple suppliers require efficient and standardized evaluation processes.  
 
